@@ -19,7 +19,10 @@ Too much knowledge!! All of it must be comsumed.
   ### 🚧 Currently Working On
 - Exploring offensive security concepts using a homelab and Metasploit
 - Planning improvements to my NIDS framework
-
+- 
+# 💻 Tech Stack:
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
