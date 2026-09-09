@@ -17,9 +17,9 @@ Too much knowledge!! All of it must be comsumed.
 - **Other:** Homelabbing, Linux
 
   ### 🚧 Currently Working On
-- Exploring offensive security concepts using a homelab and Metasploit
-- Planning improvements to my NIDS framework
-- 
+- Exploring offensive security concepts using a homelab and Metasploit.
+- Planning improvements to my NIDS framework.
+
 # 💻 Tech Stack:
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
